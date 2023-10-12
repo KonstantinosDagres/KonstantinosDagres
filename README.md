@@ -30,4 +30,4 @@ Languages and tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
-![KonstantinosDagres's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinosDagres&theme=graywhite&show_icons=true)
+![KonstantinosDagres's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinosDagres&theme=vue&show_icons=true)
