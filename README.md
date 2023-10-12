@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Some basic information about me:
+Some basic information about me:
 
 - 🔭 I’m currently working on AI field using Computer Vision and Data Science to solve real life problems in agricultural domain.
 - 🌱 I’m currently learning about ML techniques in how to apply them in agriculture.
