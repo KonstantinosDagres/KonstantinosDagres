@@ -31,6 +31,4 @@ Languages and tools
 </div>
 
 Statistics
-<div>
 ![KonstantinosDagres's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinosDagres&theme=dark&show_icons=true)
-</div>
