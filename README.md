@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Some basic information about me:
 
 - 🔭 I’m currently working on AI field using Computer Vision and Data Science to solve real life problems in agricultural domain.
