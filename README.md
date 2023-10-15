@@ -29,5 +29,3 @@ Languages and tools
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/word.png" title="Word" alt="Word" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" title="Access" alt="Access" width="40" height="40"/>&nbsp;  
 </div>
-
-![KonstantinosDagres's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinosDagres&theme=vue&show_icons=true)
