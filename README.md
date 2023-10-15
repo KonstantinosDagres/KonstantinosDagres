@@ -26,6 +26,7 @@ Languages and tools
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/outlook.png" title="Outlook"  alt="Outlook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/powerpoint.png" title="Powerpoint" alt="Powerpoint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/word.png" title="Word" alt="Word" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" title="Access" alt="Access" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
